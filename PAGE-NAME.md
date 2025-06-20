@@ -1,3 +1,6 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /https://skynyrdz.github.io/
 <!DOCTYPE html>
 <html lang="ru">
 <head>
